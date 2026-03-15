@@ -1,7 +1,11 @@
 The Digital Footprint
-CTF: [CTF Name]
+
+CTF: Cipathon'26 round 1 
+
 Category: OSINT
+
 Difficulty: Easy
+
 Solved by: Hector1516 & imsaksham24
 
 Challenge Description
